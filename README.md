@@ -2,7 +2,7 @@
 
 Here are the works for Princeton Algorithms course
 
-including 4 projectsI
+Including 4 projects:
 
 Collinear
 
