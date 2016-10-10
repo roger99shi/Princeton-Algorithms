@@ -4,10 +4,10 @@ Here are the works for Princeton Algorithms course
 
 Including 4 projects:
 
-Collinear
+Collinear (http://coursera.cs.princeton.edu/algs4/assignments/collinear.html)
 
-Kdtree
+Kdtree (http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html)
 
-Percolation
+Percolation (http://coursera.cs.princeton.edu/algs4/assignments/percolation.html)
 
-Queues
+Queues (http://coursera.cs.princeton.edu/algs4/assignments/queues.html)
